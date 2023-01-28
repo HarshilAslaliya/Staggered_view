@@ -1,16 +1,9 @@
-# staggred_view
+# staggered_view
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/121867931/215250646-d1da9725-4280-4a12-b271-11f136dd4745.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align='left' src="https://user-images.githubusercontent.com/121867931/215250552-7c08cc66-fbf5-4aff-8181-5eddd00bba3a.png" width="200" height="450">
+<img src="https://user-images.githubusercontent.com/121867931/215250554-f3ed32a2-dd9b-4c50-8550-51945a2a066f.png" width="200" height="450">
+<img align='left' src="https://user-images.githubusercontent.com/121867931/215250556-054fc12e-e3e7-48ae-8932-6b6df2ae0cb7.png" width="200" height="450">
